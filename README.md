@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Katri-na
+- 👀 I’m interested in finding the right tech talent for their ideal roles ...
+- 🌱 I’m currently learning to be better at what I do ...
+- 📫 Reach me at katrina.romero-salas@lendis.de for 100% remote tech opportunites ...
+
+<!---
+Katri-na/Katri-na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
